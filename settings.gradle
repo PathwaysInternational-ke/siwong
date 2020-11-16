@@ -1,0 +1,3 @@
+include ':siwong'
+include ':app'
+rootProject.name = "Break"
